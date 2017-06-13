@@ -1,0 +1,185 @@
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.csprojResolveAssemblyReference.cache
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\MainWindow.g.cs
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\App.g.cs
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator_MarkupCompile.cache
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator_MarkupCompile.lref
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\WordNator.exe.config
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\WordNator.exe
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\WordNator.pdb
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\Prism.dll
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\Prism.Wpf.dll
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\System.Windows.Interactivity.dll
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\Prism.xml
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\Prism.Wpf.xml
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\MainWindow.baml
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.g.resources
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.Properties.Resources.resources
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.csproj.GenerateResource.Cache
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.exe
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.pdb
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\EntityFramework.dll
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\EntityFramework.xml
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.Migrations.User_Entity_Added.resources
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\App.baml
+c:\users\przemek\documents\visual studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.Migrations.Lesson_Question_Entities_Added.resources
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\AddLesson.g.cs
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\AddUserWindow.g.cs
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\UserWindow.g.cs
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\AddLesson.baml
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\AddUserWindow.baml
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\MainPage.baml
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\UserWindow.baml
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\LessonQuestions.g.cs
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\LessonQuestions.baml
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\WordNator.Migrations.LessonQuestions_Added.resources
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\LessonPage.g.cs
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\LessonPage.baml
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\SelectLesson.g.cs
+C:\Users\Przemek\Documents\Visual Studio 2017\Projects\WordNator\WordNator\obj\Debug\Pages\SelectLesson.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\AddLesson.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\AddUserWindow.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\LessonPage.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\LessonQuestions.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\MainWindow.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\SelectLesson.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\UserWindow.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\App.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator_MarkupCompile.cache
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator_MarkupCompile.lref
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.exe
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.pdb
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\WordNator.exe.config
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\WordNator.exe
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\WordNator.pdb
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\EntityFramework.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\MahApps.Metro.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Prism.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Prism.Wpf.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\EntityFramework.xml
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\MahApps.Metro.pdb
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\MahApps.Metro.xml
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Prism.xml
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Prism.Wpf.xml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\App.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\AddLesson.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\AddUserWindow.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\LessonPage.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\LessonQuestions.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\MainPage.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\MainWindow.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\SelectLesson.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\UserWindow.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.g.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.User_Entity_Added.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.Lesson_Question_Entities_Added.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.LessonQuestions_Added.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Properties.Resources.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.csproj.GenerateResource.Cache
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Resources\Icons.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Controls\DeleteDialog.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Controls\DeleteDialog.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\LessonResult.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\LessonResult.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.User_Entity_Modified.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Added.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Modified.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Modified1.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Modified2.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\MyResults.g.cs
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\Pages\MyResults.baml
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\Microsoft.Speech.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\WordNator.exe.config
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\WordNator.exe
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\WordNator.pdb
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\EntityFramework.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\MahApps.Metro.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Microsoft.Speech.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Prism.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Prism.Wpf.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\EntityFramework.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\MahApps.Metro.pdb
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\MahApps.Metro.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Prism.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\Prism.Wpf.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Resources\Icons.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Controls\DeleteDialog.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\AddLesson.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\AddUserWindow.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\LessonPage.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\LessonQuestions.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\LessonResult.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\MainWindow.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\MyResults.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\SelectLesson.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\UserWindow.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\App.g.cs
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator_MarkupCompile.cache
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator_MarkupCompile.lref
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\App.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Controls\DeleteDialog.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\AddLesson.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\AddUserWindow.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\LessonPage.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\LessonQuestions.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\LessonResult.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\MainPage.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\MainWindow.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\MyResults.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\SelectLesson.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\Pages\UserWindow.baml
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.g.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.User_Entity_Added.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.Lesson_Question_Entities_Added.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.LessonQuestions_Added.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.User_Entity_Modified.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Added.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Modified.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Modified1.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.Result_Entity_Modified2.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Properties.Resources.resources
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.csproj.GenerateResource.Cache
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.exe
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.pdb
+C:\Users\Przemek\Desktop\Nowy folder\WordNator\WordNator\obj\Debug\WordNator.Migrations.ResultsSummary_Added.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Przemek\Desktop\WordNator\WordNator\obj\Debug\WordNator.Migrations.ResultsSummary_Added.resources
+C:\Users\Przemek\Desktop\WordNator\WordNator\bin\Debug\SQLite.CodeFirst.dll

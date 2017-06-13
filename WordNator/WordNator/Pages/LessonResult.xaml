@@ -1,0 +1,57 @@
+﻿<Page x:Class="WordNator.Pages.LessonResult"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WordNator.Pages"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      mc:Ignorable="d" 
+      d:DesignHeight="640" d:DesignWidth="1024"
+      Title="LessonResult">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="40*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Style="{StaticResource AppName}" Text="WordNator"/>
+        <TextBlock Style="{StaticResource LessonName}" HorizontalAlignment="Right" Grid.Column="0" Grid.Row="1" Text="Temat: "/>
+        <TextBlock Style="{StaticResource LessonName}" Name="LessonNameText" Grid.Row="1"/>
+        <TextBlock Style="{StaticResource LessonName}" Margin="0,20,0,0" HorizontalAlignment="Right" Grid.Column="0" Grid.Row="2" Text="Wynik: "/>
+        <DockPanel Style="{StaticResource ProgressBarPanel}" >
+            <Controls:MetroProgressBar Name="ResultProgressBar" Height="20" Minimum="0" Maximum="100" Value="0" >
+                <Controls:MetroProgressBar.Background>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.WindowFrameColorKey}}"/>
+                </Controls:MetroProgressBar.Background>
+            </Controls:MetroProgressBar>
+        </DockPanel>
+
+        <DockPanel Name="LessonDetailsPanel" Style="{StaticResource LessonDetailsPanel}" >
+            <Button Name="LessonDetailsButton" Content="Szczegóły" Click="LessonDetailsButton_Click" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        </DockPanel>
+        
+        <DockPanel Name="TryAgainPanel" Style="{StaticResource LessonResultButtonPanel}">
+            <Button Name="TryAgainButton" Content="Powtórz lekcję" Click="TryAgainButton_Click" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        </DockPanel>
+
+        <DockPanel Name="BackToMenuPanel" Style="{StaticResource LessonResultButtonPanel}" HorizontalAlignment="Right">
+            <Button Name="BackToMenuButton" Content="Powrót do menu" Click="BackToMenuButton_Click" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        </DockPanel>
+
+        <DockPanel Name="LessonResultsPanel" Style="{ StaticResource LessonResultsPanel}"/>
+
+        <DockPanel Name="BackButtonPanel" Style="{StaticResource BackButtonPanel}">
+            <Button Name="BackButton" Content="Powrót" Click="BackButton_Click" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        </DockPanel>
+
+        <DockPanel Name="CorrectAnswersCountPanel" Style="{StaticResource CorrectAnswersCount}">
+            <TextBlock Name="CorrectAnswersCount" Style="{StaticResource TextBlockStyle}"/>
+        </DockPanel>
+    </Grid>
+</Page>
